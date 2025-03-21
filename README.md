@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https:/kodluyoruz.org)Front-End Eğitimi Kapsamında Açtığım İlk Repo.İçerisinde bir adet README dosyası,bir adet index.html dosyası barındırıyor.
 
 ## Installation
